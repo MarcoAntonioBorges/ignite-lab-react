@@ -1,0 +1,11 @@
+CSM = Content Management System
+
+// Traz tanto o painel de ADMIN quanto a parte visual do front-end 
+
+// Headless CMS (GraphCMS) Painel de ADMIN (Dados fornecidos atraves de uma API Rest ou GraphQL)
+// React que consome essa API do CMS
+
+// Query / Mutation
+
+// Query = buscar Dados
+// Mutation = criar, alterar ou deletar dados
